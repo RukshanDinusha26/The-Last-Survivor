@@ -24,7 +24,7 @@ In this game, you play as a warrior fighting for survival. You must navigate the
 ![Gameplay](Readme/game.png)
 *Gameplay Action*
 
-![Gameplay_footage](REadme/gameplay.gif)
+![Gameplay_footage](Readme/gameplay.gif)
 *Gameplay Footage*
 
 
