@@ -16,13 +16,16 @@ In this game, you play as a warrior fighting for survival. You must navigate the
 -   **Score Tracking**: Earn points for every monster defeated.
 -   **Game States**: Includes Main Menu, Gameplay, Pause, and Game Over screens.
 
-## Screenshots
+## Gameplay
 
 ![Menu Screen](Readme/menu.png)
 *Main Menu*
 
 ![Gameplay](Readme/game.png)
 *Gameplay Action*
+
+![Gameplay_footage](REadme/gameplay.gif)
+*Gameplay Footage*
 
 
 ## Installation
