@@ -1,6 +1,6 @@
 # The Last Survivor
 
-![The Last Survivor Cover](Readme\cover.png)
+![The Last Survivor Cover](Readme/cover.png)
 
 The Last Survivor is a 2D top-down survival game built with Python and Pygame Zero. Defend yourself against endless waves of monsters as the lone warrior.
 
